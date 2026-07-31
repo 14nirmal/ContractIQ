@@ -108,7 +108,7 @@ def render_upload_page():
                         # Navigate to contract details
                         st.info("Go to **My Contracts** to view full details, clauses, and risk analysis.")
                     else:
-                        st.warning("Analysis is not yet available. It will be enabled after Phase 2.")
+                        st.error("Analysis could not be completed at this time. The AI provider rate limit may have been reached or server timed out. Please try again in a few minutes.")
 
     # ─────────────────────────────────────────
     # Quick Tips

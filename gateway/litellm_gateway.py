@@ -84,7 +84,7 @@ MODELS = {
     "gemini": "gemini/gemini-2.0-flash",
     "llama": "groq/llama-3.3-70b-versatile",
     "qwen": "groq/llama-3.1-8b-instant",
-    "deepseek": "groq/llama-3.3-70b-versatile",
+    "deepseek": "groq/llama-3.1-8b-instant",
 }
 
 # Provider-specific API keys
