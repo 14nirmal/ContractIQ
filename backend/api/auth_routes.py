@@ -48,6 +48,7 @@ async def signup(user_data: UserCreate, db: AsyncSession = Depends(get_db)):
         details={"email": user.email},
     )
     db.add(audit_log)
+    await db.commit()
 
     # Generate JWT token
     access_token = create_access_token(data={"sub": user.id, "email": user.email})
@@ -84,6 +85,7 @@ async def login(user_data: UserLogin, db: AsyncSession = Depends(get_db)):
         resource_id=user.id,
     )
     db.add(audit_log)
+    await db.commit()
 
     # Generate JWT token
     access_token = create_access_token(data={"sub": user.id, "email": user.email})

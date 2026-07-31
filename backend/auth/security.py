@@ -7,6 +7,7 @@ Password hashing (bcrypt) and JWT token management.
 from datetime import datetime, timedelta, timezone
 
 import bcrypt
+from jose import JWTError, jwt
 
 from backend.config import get_settings
 
