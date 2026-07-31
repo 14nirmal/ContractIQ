@@ -33,22 +33,29 @@ def get_headers() -> dict:
 
 
 def handle_response(response: httpx.Response) -> dict | list | None:
-    """Handle API response, raise on errors."""
+    """Handle API response with safe JSON parsing and error handling."""
     if response.status_code == 401:
         st.session_state.authenticated = False
         st.session_state.token = None
-        st.error("Session expired. Please log in again.")
-        st.rerun()
+        st.error("Invalid email or password, or session expired.")
+        return None
 
     if response.status_code >= 400:
-        detail = response.json().get("detail", "An error occurred")
+        try:
+            detail = response.json().get("detail", "An error occurred")
+        except Exception:
+            detail = f"Server status {response.status_code}. Render instances sleep after 15 mins of inactivity. Please wait 20–30 seconds for the backend to finish spinning up, then try logging in again."
         st.error(f"Error: {detail}")
         return None
 
     if response.status_code == 204:
         return None
 
-    return response.json()
+    try:
+        return response.json()
+    except Exception:
+        st.error("Backend is initializing. Please wait a few seconds and try again.")
+        return None
 
 
 # ─────────────────────────────────────────────
