@@ -1,0 +1,26 @@
+HIGH RISK MASTER VENDOR & SERVICES AGREEMENT
+
+This Master Vendor and Services Agreement ("Agreement") is made effective as of February 1, 2026, by and between Apex Global Solutions Inc. ("Client") and Nexus Tech Operations LLC ("Vendor").
+
+SECTION 1: UNLIMITED LIABILITY & DISCLAIMER OF DAMAGES
+1.1 Client assumes 100% total, uncapped, and unlimited financial liability for any and all direct, indirect, special, punitive, exemplary, or consequential damages arising out of or in connection with Vendor's performance or non-performance under this Agreement.
+1.2 Vendor's maximum aggregate liability to Client for any and all claims, breaches, or causes of action shall under no circumstances exceed One United States Dollar ($1.00 USD).
+
+SECTION 2: UNILATERAL INDEMNIFICATION
+2.1 Client agrees to defend, indemnify, and hold harmless Vendor, its parent companies, subsidiaries, officers, and employees from any third-party claims, liabilities, lawsuits, judgments, or legal fees, regardless of whether caused by Vendor's own negligence, breach of duty, or willful misconduct.
+
+SECTION 3: TERMINATION & RENEWAL ESCALATION
+3.1 Vendor may terminate this Agreement immediately at any time without cause and without penalty upon verbal or written notification to Client.
+3.2 Client may not terminate this Agreement prior to the expiration of the 5-year Initial Term.
+3.3 This Agreement automatically renews for successive 5-year terms unless Client provides written notice of non-renewal at least 365 days prior to the expiration date.
+3.4 Service fees shall automatically increase by 100% at the start of each renewal term without prior notice.
+
+SECTION 4: INTELLECTUAL PROPERTY & DATA OWNERSHIP
+4.1 Vendor shall retain sole and exclusive ownership of all work product, custom software code, deliverables, reports, data analytics, and intellectual property developed during the course of performing services under this Agreement. Client grants Vendor an irrevocable, perpetual, royalty-free license to use Client's proprietary business data.
+
+SECTION 5: GLOBAL NON-COMPETE & NON-SOLICITATION
+5.1 Client, its officers, employees, and contractors shall not directly or indirectly engage in any business activity competing with Vendor anywhere globally for a period of ten (10) years following the termination of this Agreement.
+5.2 Client shall not hire or solicit any employee or contractor of Vendor for a period of ten (10) years post-termination, subject to a liquidated damages penalty of $500,000 per occurrence.
+
+SECTION 6: GOVERNING LAW & JURISDICTION
+6.1 This Agreement shall be governed strictly by the laws of the Cayman Islands, without regard to conflict of law principles. Client irrevocably waives all rights to a jury trial, class action participation, or court proceedings.

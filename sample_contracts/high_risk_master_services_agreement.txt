@@ -1,0 +1,24 @@
+HIGH RISK MASTER SERVICES AND INDEMNIFICATION AGREEMENT
+
+This Agreement ("Agreement") is entered into as of January 15, 2026, by and between Enterprise Vendor Corp ("Client") and Contractor Services LLC ("Provider").
+
+1. UNLIMITED LIABILITY AND DAMAGES
+Client shall assume 100% unlimited financial and legal liability for all direct, indirect, consequential, special, punitive, and incidental damages arising out of or relating to Provider's services, regardless of Provider's negligence, willful misconduct, or breach of contract. Provider's total liability under any circumstance shall be strictly limited to $1.00.
+
+2. UNILATERAL INDEMNIFICATION
+Client agrees to defend, indemnify, and hold harmless Provider, its affiliates, directors, officers, and employees against any and all third-party claims, lawsuits, liabilities, losses, costs, or attorney fees arising out of or related to Provider's performance of services, without limitation or cap.
+
+3. IMMEDIATE UNILATERAL TERMINATION
+Provider may terminate this Agreement immediately at any time without cause and without prior notice to Client. Client shall have no right to terminate this Agreement prior to the expiration of the 10-year Initial Term.
+
+4. AUTOMATIC RENEWAL AND PRICE INCREASES
+This Agreement shall automatically renew for successive 5-year terms unless Provider provides written notice of non-renewal 365 days prior to expiration. Fees shall automatically increase by 100% at the start of each renewal term without prior notification.
+
+5. GEOGRAPHIC NON-COMPETE AND NON-SOLICITATION
+Client and its employees shall not compete directly or indirectly with Provider anywhere globally, nor solicit any employee, customer, or vendor of Provider for a period of ten (10) years following termination of this Agreement.
+
+6. NO WARRANTY AND AS-IS SERVICES
+Provider provides all services "AS IS" with zero express or implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+7. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed exclusively by the laws of the Cayman Islands. Client waives all rights to a jury trial or class action lawsuit.

@@ -1,0 +1,35 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+This Executive Employment Agreement ("Agreement") is made effective as of January 1, 2026, by and between Apex Global Technologies Inc. ("Company") and Robert Vance ("Executive").
+
+1. POSITION AND DUTIES
+The Company hereby employs Executive as Senior Vice President of Engineering. Executive shall report directly to the Chief Executive Officer and shall perform such duties as are customarily associated with such position. Executive agrees to devote full business time, attention, and effort to the performance of duties for the Company.
+
+2. COMPENSATION AND BENEFITS
+(a) Base Salary: The Company shall pay Executive an annual base salary of $250,000, payable in accordance with the Company's standard payroll practices.
+(b) Annual Bonus: Executive shall be eligible for an annual performance bonus of up to 30% of Base Salary, subject to achieving key performance metrics established by the Board of Directors.
+(c) Benefits: Executive shall be eligible to participate in standard health, dental, vision, and 401(k) retirement plans maintained by the Company for executive employees.
+
+3. TERM AND TERMINATION
+(a) At-Will Employment: Employment is at-will and may be terminated by either party at any time, with or without cause, upon thirty (30) days' written notice.
+(b) Termination for Cause: The Company may terminate Executive immediately for "Cause," defined as conviction of a felony, gross negligence, willful misconduct, or material breach of this Agreement. In the event of termination for Cause, Executive shall receive Base Salary earned through the date of termination and no severance.
+(c) Severance: If the Company terminates Executive without Cause, Executive shall receive severance pay equal to six (6) months of Base Salary, contingent upon executing a general release of claims in favor of the Company.
+
+4. NON-COMPETE AND NON-SOLICITATION
+(a) Non-Compete: During employment and for a period of twelve (12) months following termination of employment for any reason, Executive shall not directly or indirectly engage in, own, manage, or work for any business entity that directly competes with the primary software products offered by the Company within North America.
+(b) Non-Solicitation: For a period of eighteen (18) months following termination, Executive shall not solicit, recruit, or hire any current employee, officer, or consultant of the Company, nor solicit any active client or customer of the Company.
+
+5. INTELLECTUAL PROPERTY AND CONFIDENTIALITY
+(a) Proprietary Information: Executive agrees to keep confidential all technical, financial, and customer data belonging to the Company.
+(b) Work Product: All inventions, software code, trade secrets, and improvements developed by Executive during employment relating to the Company's business shall belong exclusively to the Company as "work made for hire."
+
+6. GOVERNING LAW AND ARBITRATION
+This Agreement shall be governed by the laws of the State of New York. Any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration administered by JAMS in New York, NY, in accordance with its Employment Arbitration Rules.
+
+IN WITNESS WHEREOF, Company and Executive have executed this Agreement as of the date first above written.
+
+APEX GLOBAL TECHNOLOGIES INC.
+By: Sarah Jenkins, Chief Human Resources Officer
+
+EXECUTIVE
+By: Robert Vance

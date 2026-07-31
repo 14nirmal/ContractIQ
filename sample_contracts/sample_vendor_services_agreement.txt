@@ -1,0 +1,37 @@
+MASTER VENDOR SERVICES AGREEMENT
+
+This Master Vendor Services Agreement ("Agreement") is entered into as of February 15, 2026, by and between CloudScale Systems Inc., a Delaware corporation ("Client"), and DataGuard Cyber Services Corp., a Texas corporation ("Vendor").
+
+1. SERVICES AND DELIVERABLES
+Vendor shall provide managed cloud security monitoring and data backup services ("Services") as described in Statement of Work No. 1 attached hereto. Vendor warrants that Services shall be performed in a professional manner in accordance with industry standards.
+
+2. PAYMENT AND FEES
+(a) Fees: Client shall pay Vendor a monthly recurring service fee of $45,000.
+(b) Payment Terms: Vendor shall invoice Client monthly in advance. Invoices are due within fifteen (15) days of receipt. Late payments shall accrue interest at the rate of 1.5% per month or the maximum rate permitted by law.
+(c) Price Increases: Vendor reserves the unilateral right to increase service fees by up to 25% annually upon thirty (30) days' notice prior to any renewal term.
+
+3. TERM AND AUTOMATIC RENEWAL
+This Agreement shall have an initial term of one (1) year. THIS AGREEMENT SHALL AUTOMATICALLY RENEW FOR SUCCESSIVE ONE (1) YEAR TERMS UNLESS CLIENT PROVIDES WRITTEN NOTICE OF NON-RENEWAL AT LEAST NINETY (90) DAYS PRIOR TO THE EXPIRATION OF THE CURRENT TERM.
+
+4. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+(a) VENDOR'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES ACTUALLY PAID BY CLIENT TO VENDOR IN THE ONE (1) MONTH PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+(b) IN NO EVENT SHALL VENDOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR LOST PROFIT DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. INDEMNIFICATION BY CLIENT
+Client shall defend, indemnify, and hold harmless Vendor, its officers, directors, and employees against any and all third-party claims, demands, liabilities, damages, costs, and attorney fees arising from or related to Client's data, misuse of Services, or breach of this Agreement. VENDOR SHALL HAVE NO INDEMNIFICATION OBLIGATIONS TO CLIENT UNDER THIS AGREEMENT.
+
+6. TERMINATION
+(a) Termination for Convenience: Vendor may terminate this Agreement at any time without cause upon thirty (30) days' written notice to Client. CLIENT HAS NO RIGHT TO TERMINATE THIS AGREEMENT FOR CONVENIENCE.
+(b) Termination for Breach: Either party may terminate if the other party materially breaches this Agreement and fails to cure within thirty (30) days of receiving written notice.
+
+7. GOVERNING LAW AND VENUE
+This Agreement shall be governed by the laws of the State of Texas. Any lawsuit arising hereunder must be filed exclusively in Travis County, Texas.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Master Vendor Services Agreement.
+
+CLOUDSCALE SYSTEMS INC.
+By: Mark Thompson, VP of Infrastructure
+
+DATAGUARD CYBER SERVICES CORP.
+By: Elena Rostova, Chief Revenue Officer
