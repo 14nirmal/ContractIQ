@@ -8,7 +8,20 @@ import os
 import httpx
 import streamlit as st
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
+def get_backend_url() -> str:
+    """Get backend URL dynamically from Streamlit secrets, env vars, or local fallback."""
+    url = None
+    try:
+        if hasattr(st, "secrets") and "BACKEND_URL" in st.secrets:
+            url = st.secrets["BACKEND_URL"]
+    except Exception:
+        pass
+    if not url:
+        url = os.getenv("BACKEND_URL", "http://localhost:8000")
+    return url.strip().rstrip("/")
+
+
+BACKEND_URL = get_backend_url()
 
 
 def get_headers() -> dict:
